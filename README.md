@@ -1,6 +1,6 @@
-# 分库分表
+# 分库分表学习
 
-# 使用到的sql
+### 使用到的sql
 
 ```sql
 CREATE TABLE `course_1` (
